@@ -1,7 +1,7 @@
 
-# Project Title
+# jalali calendar c
 
-A brief description of what this project does and who it's for
+simple jalali console text calendar . 
 
 
 ## Usage
